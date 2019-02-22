@@ -1,0 +1,30 @@
+{
+  "name": "tufs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@angular/animations": "^7.2.0",
+    "@angular/cdk": "^7.2.1",
+    "@angular/material": "^7.2.1",
+    "cookie-parser": "~1.4.3",
+    "date-and-time": "^0.6.3",
+    "debug": "~2.6.9",
+    "ejs": "^2.6.1",
+    "email-validator": "^2.0.4",
+    "express": "~4.16.0",
+    "express-session": "^1.15.6",
+    "http-errors": "~1.6.2",
+    "mongoose": "^5.4.4",
+    "morgan": "~1.9.0",
+    "node-datetime": "^2.1.2",
+    "promise": "^8.0.2",
+    "promises": "^0.2.5",
+    "pug": "2.0.0-beta11",
+    "sendotp": "^1.2.9",
+    "speakeasy": "^2.0.0",
+    "uniqid": "^5.0.3"
+  }
+}
